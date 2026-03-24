@@ -1,0 +1,9 @@
+{
+  "name": "my rents🤝",
+  "description": "Professional marketplace for items to rent only. Real-time GPS location extraction, Live Audio/Media Chat, and AI-powered verification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
